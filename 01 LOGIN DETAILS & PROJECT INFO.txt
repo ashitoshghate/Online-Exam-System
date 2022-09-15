@@ -1,17 +1,17 @@
 **Database Name: oesm**
 
-**Developed by Sunny Prakash Tiwari**
+**Developed by Ashitosh Dilip Ghate**
 
 **Recommended PHP Version 5.6.3 and 7.4.12**
 
 
 **Student Login Details**
 
-Email   : steeve@gmail.com 
+Email   : ashutosh@gmail.com 
 Password: password
 
 
 **Admin Login Details**
 
-Email    : sunnygkp10@gmail.com
+Email    : kakahalwai@gmail.com
 Password : 123456
